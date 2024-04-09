@@ -1,7 +1,10 @@
 # Swapping-two-values
 Name:J.JANANI
+
 Register no:212223230085
+
 Department:B.Tech AIDS
+
 ## AIM:
 To write a python program for swapping of two values
 ## EQUIPEMENT'S REQUIRED: 
@@ -22,6 +25,12 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
+## Swapping of two variables
+
+## Developed by:J.JANANI
+
+## Register no:212223230085
+
 a=int(input())
 b=int(input())
 c=a
