@@ -41,8 +41,8 @@ print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
 
+![python 1](https://github.com/Janani23014108/Swapping-two-values/assets/146822085/135f444a-2444-4211-9e65-91c6b3837e58)
 
-![python exp 1](https://github.com/Janani23014108/Swapping-two-values/assets/146822085/bd345209-8117-4a18-9267-ea9956271889)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
